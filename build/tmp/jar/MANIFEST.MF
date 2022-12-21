@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: Cheese Dragon
+Specification-Vendor: examplemodsareus
+Specification-Version: 1
+Implementation-Title: 1.19.2-cheese_dragon
+Implementation-Version: 1.0
+Implementation-Vendor: examplemodsareus
+Implementation-Timestamp: 2022-12-21T10:48:00+0800
+

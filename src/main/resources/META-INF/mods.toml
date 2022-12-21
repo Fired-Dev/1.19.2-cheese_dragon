@@ -1,5 +1,5 @@
 modLoader="javafml"
-loaderVersion="[37,)"
+loaderVersion="[43,)"
 license="AFL-3.0"
 [[mods]]
 modId="cheese_dragon"
@@ -14,12 +14,12 @@ description='''
 [[dependencies.examplemod]]
     modId="forge"
     mandatory=true
-    versionRange="[37,)"
+    versionRange="[43,)"
     ordering="NONE"
     side="BOTH"
 [[dependencies.examplemod]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.17.1,1.18)"
+    versionRange="[1.19.2,1.20)"
     ordering="NONE"
     side="BOTH"
